@@ -1,0 +1,4 @@
+NODE_ENV=dev
+
+BIND_IP=0.0.0.0
+PORT=3000

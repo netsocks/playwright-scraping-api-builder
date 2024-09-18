@@ -1,0 +1,14 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.formatOnSave": false,
+  "prettier.enable": false,
+  "eslint.debug": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+}
